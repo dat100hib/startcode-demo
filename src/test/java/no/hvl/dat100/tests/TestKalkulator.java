@@ -1,4 +1,4 @@
-package no.hvl.dat100.unittests;
+package no.hvl.dat100.tests;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
