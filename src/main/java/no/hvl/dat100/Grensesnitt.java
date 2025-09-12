@@ -1,4 +1,4 @@
-package no.hvl.dat100.kalkulator.app;
+package no.hvl.dat100;
 
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;

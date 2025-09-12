@@ -3,7 +3,7 @@ package no.hvl.dat100.tests;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 
-import no.hvl.dat100.kalkulator.app.Kalkulator;
+import no.hvl.dat100.Kalkulator;
 
 public class TestKalkulator {
 
