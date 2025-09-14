@@ -5,6 +5,7 @@ public class Kalkulator {
     public static int add(int a, int b) {
 
         // TODO
+
         throw new RuntimeException("add ikke implementert");
     }
 
