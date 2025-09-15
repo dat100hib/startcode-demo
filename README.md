@@ -12,7 +12,7 @@ For gruppeoppgaver er det kun en person i gruppen som skal utføre *Use as templ
 
 Start-koden ligger i et prosjekt som er organisert slik at bygge-systemet Maven automatisk kan brukes til å kompilere koden og kjøre test i GitHub-skyen.
 
-Importer prosjekt inn i IntelliJ ved å bruke *File* -> *New* -> *Project from Existing Sources*
+Importer prosjekt inn i IntelliJ ved å bruke *File* -> *Open* og navigere til mappen der startkoden fra steg 1 er lagret.
 
 Klassene `Grensnitt.java` og `Kalkulator.java` inneholder starten på metodene dere som skal implementeres. Disse finnes under `src/main/java` i prosjektet.
 
